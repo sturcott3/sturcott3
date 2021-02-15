@@ -1,19 +1,14 @@
-### Hello! 
-
 <!--
+A big thank you to the devs over at shields.io for the cool badges! Support them here:
+[https://opencollective.com/shields]
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-
-✨ _special_ ✨
-
+Also shout out to [https://simpleicons.org/] for the images.
 -->
 
-![](https://img.shields.io/badge/<TechType>-<TechName>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### Hello! :wave:
+
+My name's Sam. I'm a mature student about to graduate from Confederation College. I had a really great experience going back to school as an adult, and now I'm very excited to start a second career as a developer.
+
+You can reach me here and on [![LinkedIn icon](/assets/linkedin.svg "courtesy of simpleicons.org")](www.linkedin.com/in/samuel-turcotte)
+
+Here's some things I'm familiar with:
