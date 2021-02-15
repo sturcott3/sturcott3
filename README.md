@@ -13,28 +13,34 @@ You can reach out to me anytime here and on <a href="www.linkedin.com/in/samuel-
 
 ---
 
-Here's some of the things I'm familiar with:
+Here's some of the things I'm comfortable with:
 
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=C%23.NET&logoColor=d34cf5&style=for-the-badge&logo=C-Sharp&labelColor=e1e3e6&color=970fdb"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=JavaScript&logoColor=f5e02a&style=for-the-badge&logo=javascript&labelColor=e1e3e6&color=f5e02a"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=HTML5&logoColor=ed4321&style=for-the-badge&logo=html5&labelColor=e1e3e6&color=ed4321"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=CSS3&logoColor=0000c4&style=for-the-badge&logo=css3&labelColor=e1e3e6&color=0000c4"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=Java&logoColor=334bff&style=for-the-badge&logo=java&labelColor=e1e3e6&color=ed0e1d"></a> <a href=""><img src="https://img.shields.io/static/v1?label=&message=MySql&logoColor=2989f0&style=for-the-badge&logo=mysql&labelColor=e1e3e6&color=2989f0"></a>
+<img src="https://img.shields.io/static/v1?label=&message=C%23.NET&logoColor=d34cf5&style=for-the-badge&logo=C-Sharp&labelColor=e1e3e6&color=970fdb"> 
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&logoColor=f5e02a&style=for-the-badge&logo=javascript&labelColor=e1e3e6&color=f5e02a"> 
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&logoColor=ed4321&style=for-the-badge&logo=html5&labelColor=e1e3e6&color=ed4321"> 
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&logoColor=0000c4&style=for-the-badge&logo=css3&labelColor=e1e3e6&color=0000c4"> 
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"> 
+<img src="https://img.shields.io/static/v1?label=&message=Java&logoColor=334bff&style=for-the-badge&logo=java&labelColor=e1e3e6&color=ed0e1d"> 
+<img src="https://img.shields.io/static/v1?label=&message=SQL&logoColor=2989f0&style=for-the-badge&logo=mysql&labelColor=e1e3e6&color=2989f0">
 
 ---
 
 Some things I'm learning right now:
 
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
 
 ---
 
 And some things I'd like to pick up soon:
 
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61"></a>
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
