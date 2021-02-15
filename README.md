@@ -11,4 +11,7 @@ My name's Sam. I'm a mature student about to graduate from Confederation College
 
 You can reach me here and on [![LinkedIn icon](/assets/linkedin.svg "courtesy of simpleicons.org")](www.linkedin.com/in/samuel-turcotte)
 
+<<<<<<< HEAD
 Here's some things I'm familiar with:
+=======
+>>>>>>> ffd9b8e07f868b549dfbc96942685e2dec54ad59
