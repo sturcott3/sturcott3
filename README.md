@@ -15,4 +15,4 @@ You can reach me here and on
 
 Here's some things I'm familiar with:
 
-<a href="www.linkedin.com/in/samuel-turcotte"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"></a>
+<a href="www.linkedin.com/in/samuel-turcotte"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=for-the-badge&logo=C-Sharp"></a>
