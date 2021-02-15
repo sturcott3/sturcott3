@@ -15,4 +15,12 @@ You can reach me here and on
 
 Here's some things I'm familiar with:
 
-<a href="www.linkedin.com/in/samuel-turcotte"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=for-the-badge&logo=C-Sharp"></a>
+<a href=""><img src="https://img.shields.io/static/v1?label=<>&message=<C#.NET>&logoColor=970fdb&style=for-the-badge&logo=C-Sharp&labelColor=333333&color=970fdb"></a>
+
+<a href=""><img src="https://img.shields.io/static/v1?label=<>&message=<JavaScript>&logoColor=f5e02a&style=for-the-badge&logo=javascript&labelColor=333333&color=f5e02a"></a>
+
+<a href=""><img src="https://img.shields.io/static/v1?label=<>&message=<HTML5>&logoColor=ed4321&style=for-the-badge&logo=html5&labelColor=333333&color=ed4321"></a>
+
+<a href=""><img src="https://img.shields.io/static/v1?label=<>&message=<CSS3>&logoColor=0000c4&style=for-the-badge&logo=css3&labelColor=333333&color=0000c4"></a>
+
+<a href=""><img src="https://img.shields.io/static/v1?label=<>&message=<jQuery>&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=333333&color=021d61"></a>
