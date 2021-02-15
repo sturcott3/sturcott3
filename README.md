@@ -21,14 +21,10 @@ Here's some of the things I'm comfortable with:
 
 Some things I'm learning right now:
 
-<img src="https://img.shields.io/static/v1?label=&message=PHP&logoColor=4c6ea8&style=for-the-badge&logo=php&labelColor=e1e3e6&color=4c6ea8">
-<img src="https://img.shields.io/static/v1?label=&message=React&logoColor=21d6ff&style=for-the-badge&logo=react&labelColor=e1e3e6&color=21d6ff">
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&logoColor=00a30e&style=for-the-badge&logo=node.js&labelColor=e1e3e6&color=00a30e">
+<img src="https://img.shields.io/static/v1?label=&message=PHP&logoColor=4c6ea8&style=for-the-badge&logo=php&labelColor=e1e3e6&color=4c6ea8"> <img src="https://img.shields.io/static/v1?label=&message=React&logoColor=21d6ff&style=for-the-badge&logo=react&labelColor=e1e3e6&color=21d6ff"> <img src="https://img.shields.io/static/v1?label=&message=Node.js&logoColor=00a30e&style=for-the-badge&logo=node.js&labelColor=e1e3e6&color=00a30e">
 
 ---
 
 And some things I'd like to pick up soon:
 
-<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
-<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
-<img src="https://img.shields.io/static/v1?label=&message=jQuery&logoColor=149ad9&style=for-the-badge&logo=jquery&labelColor=e1e3e6&color=021d61">
+<img src="https://img.shields.io/static/v1?label=&message=Docker&logoColor=1f67e0&style=for-the-badge&logo=docker&labelColor=e1e3e6&color=1f67e0"> <img src="https://img.shields.io/static/v1?label=&message=Ruby%2FRails&logoColor=ed0226&style=for-the-badge&logo=ruby-on-rails&labelColor=e1e3e6&color=ed0226"> <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&logoColor=1351ba&style=for-the-badge&logo=kubernetes&labelColor=e1e3e6&color=1351ba">
