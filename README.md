@@ -7,7 +7,7 @@ Also shout out to [https://simpleicons.org/] for the images.
 
 ## Hello! :wave:
 
-Pleased to meet you! I'm a mature student about to graduate from Confederation College. I had a really great experience going back to school as an adult, and now I'm very excited to get started in a second career as a developer.
+Pleased to meet you! I'm a keen learner who recently graduated from Confederation College. I had a really great experience going back to school as an adult, and now I'm very excited to get started in a second career as a developer.
 
 You can reach out to me anytime here and on <a href="www.linkedin.com/in/samuel-turcotte">LinkedIn</a>.
 
